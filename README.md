@@ -1,5 +1,7 @@
 [![Contracts CI](https://github.com/Norges-Bank-CBDC-Lab/cbdc-tokenization-sandbox/actions/workflows/test-contracts.yml/badge.svg)](https://github.com/Norges-Bank-CBDC-Lab/cbdc-tokenization-sandbox/actions/workflows/test-contracts.yml)
 
+*Languages:** [English](README.md) | [Português](README.pt.md) | [Español](README.es.md)
+
 # CBDC Sandbox Monoledger
 
 > Experimental sandbox: this repository is a local development prototype for
