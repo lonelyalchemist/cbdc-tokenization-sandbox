@@ -23,11 +23,11 @@ Esse é um monorepo para a sandbox local da CBDC. O README raiz é intencionalme
 
 Comece aqui após clonar:
 
-- [visão geral da arquitetura](docs/ARCHITECTURE.md): o que o sandbox contém e como como ele é estruturado
+- [visão geral da arquitetura](docs/ARCHITECTURE.md): o que o sandbox contém e como ele é estruturado
 - [problemas conhecidos](docs/KNOWN_ISSUES.md): limitações atuais e trabalhos futuros planejados
 - [post-mortems](docs/post-mortems/README.md): relatórios de incidentes e histórico de resolução de problemas
 - [índice de documentação](docs/DOCUMENTATION_INDEX.md): todas as principais documentações em um só lugar
-- [README da infraestrutura](infra/README.md): ponto de entrada da infraestrutura e workflow do registro
+- [README da infraestrutura](infra/README.md): ponto de entrada da infraestrutura e workflow do registry
 - [README dos serviços](services/README.md): visão geral dos serviços e para onde ir a seguir
 - [scripts README](scripts/README.md): Visão geral da CLI e dicas de uso
 - [contracts README](contracts/README.md): fluxo de trabalho e verificação específicos do contrato
@@ -37,7 +37,7 @@ Comece aqui após clonar:
  ## AI Ready
 
 Este repositório inclui orientações específicas para agentes de codificação de IA. Esses arquivos
-também ajudam os colaboradores humanos a entender o wrokflow e as diretrizes específicas do repositório: 
+também ajudam os colaboradores humanos a entender o workflow e as diretrizes específicas do repositório: 
 
 - `AGENTS.md`: orientação do repositório no nível raiz
 - `contracts/AGENTS.md`: orientação de contrato e Foundry
